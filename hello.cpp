@@ -18,6 +18,8 @@ int main()
    uint32_t max = UINT32_MY_MAX;
 
    cout << max << endl;
+   cout << "111" << endl;
+   
    system("pause");
    return 0;
 }
